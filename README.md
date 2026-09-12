@@ -1,5 +1,3 @@
-# Hi 👋
-
 **Software / Full-Stack Developer** focused on **performance, tooling, and real-time applications**.
 
 I've been programming for most of my life, with professional experience building B2B applications, internal tools, APIs, and desktop applications.
