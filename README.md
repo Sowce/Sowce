@@ -35,11 +35,11 @@
     <tr>
       <td>
         <em>
-          <strong>BAHHH</strong>
+          <strong>BAHHH (not released yet)</strong>
         </em>
       </td>
       <td>
-        Yet to be released DPS meter that doesn't depend on ACT with low overhead, high performance, live rDPS, smooth animations and native rendering
+        DPS meter that doesn't depend on ACT with low overhead, high performance, live rDPS, smooth animations and native rendering
       </td>
     </tr>
     <tr>
