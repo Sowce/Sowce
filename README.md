@@ -39,7 +39,7 @@
         </em>
       </td>
       <td>
-        DPS meter that doesn't depend on ACT with low overhead, high performance, live rDPS, smooth animations and native rendering
+        DPS meter written on Odin that doesn't depend on ACT with low overhead, high performance, live rDPS, smooth animations and native rendering
       </td>
     </tr>
     <tr>
