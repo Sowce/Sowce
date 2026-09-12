@@ -42,5 +42,17 @@
         Yet to be released DPS meter that doesn't depend on ACT with low overhead, high performance, live rDPS, smooth animations and native rendering
       </td>
     </tr>
+    <tr>
+      <td>
+        <em>
+          <strong>
+            <a href="https://github.com/Sowce/vrai-hollows">vrai-hollows</a>
+          </strong>
+        </em>
+      </td>
+      <td>
+        Simple site/app that helps you solve the faux hollows mini-game in FFXIV
+      </td>
+    </tr>
   </tbody>
 </table>
